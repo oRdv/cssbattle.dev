@@ -1,0 +1,17 @@
+body{
+    background-color: #62374e;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    gap: 300px;
+    padding-top: 12rem;
+    padding-left: 25rem;
+    
+}
+
+div.quadrado{
+    background-color: #fdc57b;
+    width: 10rem;
+    height: 10rem;
+}
